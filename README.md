@@ -1,5 +1,5 @@
 
-> Dieses Repo dient auschließlich internen Zwecken, daher nicht beachten. 
+> Dieses Repo dient ausschließlich internen Zwecken, daher nicht beachten. 
 
 # Abgabe
 Projektdoku
