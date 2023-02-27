@@ -1,4 +1,7 @@
-# abgabe
+
+> Dieses Repo dient auschließlich internen Zwecken, daher nicht beachten. 
+
+# Abgabe
 Projektdoku
 
 # 1. Template latex nehmen https://sharelatex.tu-darmstadt.de/templates/63fcbe764df93c035b5a3cf8
